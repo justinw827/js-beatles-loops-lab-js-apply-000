@@ -28,7 +28,7 @@ function iLoveTheBeatles(numIn) {
     numIn++;
   }
   
-  while(numIn < 15);
+  while (numIn < 15);
   
   return myArray;
   
