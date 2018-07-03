@@ -19,3 +19,12 @@ function johnLennonFacts(facts) {
   
   return facts;
 }
+
+function iLoveTheBeatles(numIn) {
+  var myArray = []
+  
+  
+  
+  return myArray
+  
+}
