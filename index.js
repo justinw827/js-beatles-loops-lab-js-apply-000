@@ -28,6 +28,6 @@ function iLoveTheBeatles(numIn) {
     numIn++;
   }
   
-  return myArray
+  return myArray;
   
 }
